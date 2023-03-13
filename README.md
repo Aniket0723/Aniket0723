@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket0723&label=Profile%20views&color=0e75b6&style=flat" alt="aniket0723" /> </p>
 # 💫 About Me:
-🔭 I’m currently working on HOTEL BOOKING APP(MERN)<br>🌱 I’m currently learning Node.js + Express.js<br>💬 Ask me about Web Development React.js , Material UI , MERN <br>⚡ Fun fact : - STILL LEARNING
+🔭 I’m currently working on HOTEL BOOKING APP(MERN)<br>🌱 I’m currently learning Node.js + Express.js<br>💬 Ask me about :- Web Development, JAVASCRIPT, React.js , Material UI, MERN, SQL <br>⚡ Fun fact : - STILL LEARNING
 
 
 ## 🌐 Socials:
