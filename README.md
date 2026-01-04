@@ -1,13 +1,14 @@
 # Hi 👋, I'm Aniket Nagrale
 
 Frontend / React.js Developer | MERN Stack  
-📍 Nagpur, India |
+📍 Nagpur, India
 
 ---
 
 ## 👨‍💻 About Me
-Detail-oriented Frontend Developer with hands-on experience in building **responsive, user-centric web applications** using **React.js, JavaScript, HTML, and CSS**.  
-Experienced in integrating **REST APIs**, managing application state, and following modern frontend best practices. Passionate about problem-solving, clean code, and continuous learning.
+Frontend / Web Developer with hands-on experience in building responsive applications using React.js, JavaScript, and modern UI
+libraries. Skilled in refactoring legacy code, developing reusable components, integrating REST APIs, and optimizing performance. Familiar
+with Node.js, Express.js, MongoDB, and website builders like Shopify and Wix, with strong problem-solving and communication skills.
 
 ---
 
@@ -29,6 +30,7 @@ Experienced in integrating **REST APIs**, managing application state, and follow
 - Built a **responsive and accessible UI** with dark mode support and real-time processing.  
 
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Google Gemini AI  
+🔗 Live: https://snap-chef-roan.vercel.app/
 
 ---
 
@@ -38,7 +40,7 @@ Experienced in integrating **REST APIs**, managing application state, and follow
 - Integrated **calendar-based booking** and deployed the application for real-world usage.  
 
 **Tech Stack:** React.js, JavaScript, Node.js, Express.js, MongoDB  
-🔗 Live: https://hotel-booking-zf6v.onrender.com/
+🔗 Live: https://hotel-booking-lilac-five.vercel.app/
 
 ---
 
@@ -58,12 +60,6 @@ Experienced in integrating **REST APIs**, managing application state, and follow
 - Developed and maintained responsive MERN-stack web applications.  
 - Built reusable React components and integrated REST APIs.  
 - Ensured cross-browser compatibility and followed UI/UX best practices.  
-
----
-
-## 🎓 Education
-**Bachelor of Engineering (Electronics)**  
-G.H. Raisoni College of Engineering, Nagpur | 2018 – 2022  
 
 ---
 
