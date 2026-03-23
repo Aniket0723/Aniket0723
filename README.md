@@ -1,71 +1,95 @@
-# Hi 👋, I'm Aniket Nagrale
+# Hi 👋, I'm Aniket Nagrale  
 
-Frontend / React.js Developer | MERN Stack  
-📍 Nagpur, India
-
----
-
-## 👨‍💻 About Me
-Frontend / Web Developer with hands-on experience in building responsive applications using React.js, JavaScript, and modern UI
-libraries. Skilled in refactoring legacy code, developing reusable components, integrating REST APIs, and optimizing performance. Familiar
-with Node.js, Express.js, MongoDB, and website builders like Shopify and Wix, with strong problem-solving and communication skills.
+💻 Frontend Developer | React.js | Next.js | MERN Stack  
+📍 Pune, India  
 
 ---
 
-## 🛠️ Technical Skills
-**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Material-UI  
-**State Management:** Context API, Redux (Basic)  
+## 👨‍💻 About Me  
+
+Frontend Developer with ~3 years of experience building scalable, high-performance web applications using **React.js, Next.js, and JavaScript (ES6+)**.  
+
+Experienced in developing **CRM and Inventory Management Systems (IMS)** with dynamic dashboards and complex UI workflows. Skilled in **performance optimization, REST API integration, Redux Toolkit, and JWT authentication**.  
+
+Also familiar with **Node.js, Express.js, and MongoDB**, with hands-on experience in full-stack development and Agile environments.
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+**State Management:** Redux Toolkit, Context API  
 **Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code, Postman, NPM  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Tools:** Git, GitHub, Postman, VS Code  
 **Deployment:** Vercel, Netlify  
 
 ---
 
-## 📌 Projects
+## 💼 Experience  
 
-### 🍳 SnapChef – AI-Powered Recipe Generator
-- Developed an **AI-powered web application** that generates recipes from food images using **Google Gemini AI**.  
-- Implemented **image-based ingredient detection**, multiple recipe suggestions, and step-by-step cooking instructions.  
-- Built a **responsive and accessible UI** with dark mode support and real-time processing.  
+### 🚀 Frontend Developer — Spellor Logicsoft Pvt Ltd  
+📅 Jan 2024 – Present  
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Google Gemini AI  
-🔗 Live: https://snap-chef-roan.vercel.app/
-
----
-
-### 🏨 Hotel Booking Web Application
-- Built a **full-stack MERN application** with a responsive React.js frontend and RESTful APIs.  
-- Implemented **JWT-based authentication**, **CRUD operations**, and **state management using Context API**.  
-- Integrated **calendar-based booking** and deployed the application for real-world usage.  
-
-**Tech Stack:** React.js, JavaScript, Node.js, Express.js, MongoDB  
-🔗 Live: https://hotel-booking-lilac-five.vercel.app/
+- Building scalable **CRM web applications using React.js**  
+- Developing reusable components, custom hooks, and modular architecture  
+- Designing dashboards with **data visualization & role-based access control**  
+- Integrating **REST APIs & JWT authentication**  
+- Optimizing performance using **lazy loading, memoization, and code splitting**  
+- Contributing to backend using **Node.js & Express.js**  
 
 ---
 
-### 🚨 Sewage Monitoring System
-- Designed a **real-time IoT-based monitoring system** to improve sewage worker safety.  
-- Integrated **GPS tracking, gas sensors, and heartbeat monitoring** with alert mechanisms.  
-- Enabled **real-time data monitoring and emergency notifications**.  
+### 💻 Web Developer — The Works  
+📅 Jul 2023 – Dec 2023  
 
-**Tech Stack:** IoT Sensors, GPS, Embedded Systems  
-
----
-
-## 💼 Experience
-
-**Web Developer** — *The Works*  
-*July 2023 – December 2023*  
-- Developed and maintained responsive MERN-stack web applications.  
-- Built reusable React components and integrated REST APIs.  
-- Ensured cross-browser compatibility and followed UI/UX best practices.  
+- Developed responsive web apps using **HTML, CSS, JavaScript (ES6+)**  
+- Built interactive UI using **Vanilla JS & GSAP**  
+- Optimized **DOM performance and rendering**  
+- Integrated REST APIs and worked with **React.js**  
+- Delivered client projects using **Shopify & Wix**  
 
 ---
 
-## 📫 Contact
-- 🌐 Portfolio: https://aniket-protfolio.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/aniket-nagrale-80939a179  
-- 📧 Email: anunagrale77@gmail.com  
+## 📌 Projects  
+
+### 🍳 SnapChef – AI Recipe Generator  
+- Built a full-stack **Next.js app using Google Gemini AI**  
+- Implemented **NextAuth (Google OAuth)** for secure authentication  
+- Integrated external APIs with optimized UI and error handling  
+
+🔗 https://snap-chef-roan.vercel.app/  
 
 ---
+
+### 🏨 Hotel Booking Web App  
+- Developed full-stack booking platform with **React + Node.js**  
+- Implemented **JWT authentication & REST APIs**  
+- Built optimized search and booking flows  
+
+🔗 https://hotel-booking-lilac-five.vercel.app/  
+
+---
+
+### 🛒 Ecommerce Store  
+- Built scalable eCommerce app with **Redux Toolkit**  
+- Implemented cart, filtering, and product management  
+- Optimized performance with **React.memo & lazy loading**  
+
+🔗 https://ecommerce-redux-toolkit-theta.vercel.app/  
+
+---
+
+## 🎓 Education  
+
+**B.E (Electronics)**  
+G.H. Raisoni College of Engineering, Nagpur  
+2018 – 2022  
+
+---
+
+## 📫 Connect with Me  
+
+🌐 Portfolio: https://aniket-protfolio.vercel.app/  
+💼 LinkedIn: https://www.linkedin.com/in/aniket-nagrale-80939a179  
+📧 Email: aniketnagrale2307@gmail.com  
